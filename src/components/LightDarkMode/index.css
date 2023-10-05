@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
